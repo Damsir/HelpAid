@@ -1,0 +1,34 @@
+//
+//  AidPrefixHeader.pch
+//  Aid
+//
+//  Created by 张丽 on 15/10/10.
+//  Copyright © 2015年 张丽. All rights reserved.
+//
+
+#ifndef AidPrefixHeader_pch
+#define AidPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define AID_BASE_COLOR [UIColor colorWithRed:67.0/255.0 green:204.0/255.0 blue:153.0/255.0 alpha:1.0]
+
+#define AID_LEFTCATEGORY_HOST @"http://iapi.ipadown.com/api/yangshen/left.category.api.php"
+
+#define AID_HOMELIST_HOST @"http://iapi.ipadown.com/api/yangshen/index.api.php"
+
+#define AID_CATEGORYLIST_HOST @"http://iapi.ipadown.com/api/yangshen/page.list.api.php"
+
+#define DEVICE_W ([UIScreen mainScreen].bounds.size.width)
+
+#define DEVICE_H ([UIScreen mainScreen].bounds.size.height)
+
+
+#define AID_DETAILURL @"http://iapi.ipadown.com/api/yangshen/detail.show.api.php?"
+
+//[UIScreen mainScreen].bounds.size.height;
+//[UIScreen mainScreen].bounds.size.width;
+
+
+#endif /* AidPrefixHeader_pch */

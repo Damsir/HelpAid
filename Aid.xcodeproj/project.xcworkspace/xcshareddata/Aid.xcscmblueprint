@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d1bd883b-ac27-46ce-ae37-3c61df1bee63++3904" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d1bd883b-ac27-46ce-ae37-3c61df1bee63++3904" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E465D2F5-A920-4235-97EA-044DD594BF33",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d1bd883b-ac27-46ce-ae37-3c61df1bee63++3904" : "Aid\/Aid\/ThreeFrame\/MJRefresh\/MJRefresh.bundle\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Aid",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Aid.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/t.svnchina.com\/svn\/tuzhu",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d1bd883b-ac27-46ce-ae37-3c61df1bee63++3904"
+    }
+  ]
+}
